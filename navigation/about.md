@@ -114,7 +114,7 @@ Gallery of Pics, scroll to the right for more ...
 <div class="image-gallery">
   <img src="https://imgs.search.brave.com/MlEi9ic9bu3rkctC5TBStqgY1mCvjzTBqsi4SfSVjwg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk5qVTJOV0Zs/WVdVdE5tVmlZaTAw/WldWbUxUazBaR1l0/TUdObU1EUXdZbVF6/TkRRelhrRXlYa0Zx/Y0djQC5qcGc" alt="Image 1">
   <img src="https://imgs.search.brave.com/d-zcBiPx56BDf1a8in7__v98yDAmuX7SH6s-XWgmlMM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vemFsb3Jh/c2luZ2Fwb3JlYmxv/Zy53cGNvbXN0YWdp/bmcuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI1LzA2L0No/aWlrYXdhLndlYnA_/cmVzaXplPTcyMCw2/Nzgmc3NsPTE" alt="Image 2">
-  <img src="https://static.wikia.nocookie.net/projectsekai/images/b/bf/Main-image.jpg/revision/latest?cb=20201011130100" alt="Image 3">
+  <img src="https://upload.wikimedia.org/wikipedia/en/6/61/Project_SEKAI_title_screen.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" alt="Image 3">
   <img src="https://imgs.search.brave.com/y-Cr5XIiFaFEy-C2kxMuNE4sTO3ax4bq9MWrmT8eSDU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/c3ByaW5rbGViYWtl/cy5jb20vbWVkaWEv/MjAyMi8wNi9Nb2No/aS1kb3VnaG51dHMt/MTEtMS5qcGc" alt="Image 4">
   <img src="https://cdn.mos.cms.futurecdn.net/8ToUvuPXxcD5ANh3D9Sr8L-1200-80.jpg" alt="Image 5">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZR9RoZV2VE3evUC3mhncGM9aNTzfSko6T27Vwfx7I7jEShMOeYyOf_YU&s=10" alt="Image 6">
