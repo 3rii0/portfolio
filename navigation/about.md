@@ -103,7 +103,7 @@ Flags are made using Wikipedia images
 - my favorite food are mochi donuts!
 - I like using kaomojis/emoticons. these things --> ( ˶ˆᗜˆ˵ )
 
-### Interests
+### Interests - more specific stuff
 
 - I like to listen to j-pop and vocaloid. My main <a href="https://youtube.com/playlist?list=PLrSSNb7pD0xFcy_ttT4B4tn8Ag-iBJ9qS&si=Eis16K00riS9n2al">playlist</a> consists of over 600 songs, but I mainly just like to listen to the most recent songs because I tend to get tired of songs easily and I'm too lazy to create a new playlist.
 - The main fandoms I'm in are Alien Stage, Chiikawa, and Project Sekai. The gallery includes pictures of the stuff I'm interested in, artwork I've made, and me :3
@@ -118,10 +118,10 @@ Gallery of Pics, scroll to the right for more ...
   <img src="https://imgs.search.brave.com/y-Cr5XIiFaFEy-C2kxMuNE4sTO3ax4bq9MWrmT8eSDU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/c3ByaW5rbGViYWtl/cy5jb20vbWVkaWEv/MjAyMi8wNi9Nb2No/aS1kb3VnaG51dHMt/MTEtMS5qcGc" alt="Image 4">
   <img src="https://cdn.mos.cms.futurecdn.net/8ToUvuPXxcD5ANh3D9Sr8L-1200-80.jpg" alt="Image 5">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZR9RoZV2VE3evUC3mhncGM9aNTzfSko6T27Vwfx7I7jEShMOeYyOf_YU&s=10" alt="Image 6">
-  <img src="{{site.baseurl}}/images/about/lora_fam2.jpg" alt="Image 7">
-  <img src="{{site.baseurl}}/images/about/pj_party.jpg" alt="Image 8">
+  <img src="{{site.baseurl}}/images/PEE2 (1) (1).png" alt="Image 7">
+  <img src="{{site.baseurl}}/images/fin2 (2).jpg" alt="Image 8">
   <img src="{{site.baseurl}}/images/about/trent_family.png" alt="Image 9">
   <img src="{{site.baseurl}}/images/about/claire.jpg" alt="Image 10">
   <img src="{{site.baseurl}}/images/about/grandkids.jpg" alt="Image 11">
-  <img src="{{site.baseurl}}/images/about/farm.jpg" alt="Image 12">
+  <img src="{{site.baseurl}}/images/f4576b792b248812ca370099de18d401-Photoroom.png" alt="Image 12">
 </div>
