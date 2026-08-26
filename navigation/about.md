@@ -7,7 +7,7 @@ comments: true
 
 ## As a conversation Starter
 
-Here are some places I have lived.
+Hi! My name is Barbara. Here are some places I have lived.
 
 <comment>
 Flags are made using Wikipedia images
@@ -95,35 +95,26 @@ Flags are made using Wikipedia images
     }
 </script>
 
-### Journey through Life
+### Here's some basic information about me
 
-Here is what I did at those places
+- I am Chinese-American
+- Born in Santa Barbara and lived for the first couple years of my life. Then, I moved to San Diego and have lived here since.
+- Some of my hobbies include drawing, editing photos and videos, and listening to music.
+- my favorite food are mochi donuts!
+- I like using kaomojis/emoticons. these things --> ( ˶ˆᗜˆ˵ )
 
-- 🏫 Lots of Elementary Schools in Tucson, LA, Honolulu, and Glendale (CA)
-- 🏫 Middle and High School in Glendale (CA), Hoover High graduated '77
-- 🎓 Glendale CA Community College, UCLA Extension, LA Wilshire Computer Tech School '77 to '79
-- ⛪ England, London Missionary for Church of Jesus Christ of Latter-day Saints '79 to '81
-- 💼 Culver City, Glendale CA founder at Ashton-Tate, original PC's dBase 2 and 3 '82 to '87
-- 🎓 Eugene Oregon Undergraduate CompSci Degree at University of Oregon (Go Ducks!) '89 to '91
-- 💼 Eugene Oregon, founder and owner @ Microniche `88, Point Control CAD CAM developer '91 to '96
-- 🏢 San Diego CA Qualcomm, Satellite Comm and 1st Mobile OS (BREW) '96 to '19
-- 👨‍🏫 San Diego CA Teacher of Computer Science @ Del Norte High School San Diego '19 to present
+### Interests
 
-### Culture, Family, and Fun
-
-Everything for me, as for many others, revolves around family and faith.
-
-- My mother told me that I was Danish, English. and Irish, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
-- My family is pretty big as I have been married twice, my 1st wife passed away.  We have had 5 kids, 4 adopted by me, 1 biological.  Plus, there are three grandkids.  My name to my grandkids is Abuilito.
-- The gallery of pics has some of my family, fun, culture and faith memories.
+- I like to listen to j-pop and vocaloid. My main [playlist]<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_LINK">playlist</a> consists of over 600 songs, but I mainly just like to listen to the most recent songs because I tend to get tired of songs easily and I'm too lazy to create a new playlist.
+- The main fandoms I'm in are Alien Stage, Chiikawa, and Project Sekai. The gallery includes pictures of the stufff I'm interested in and me :3
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
-  <img src="{{site.baseurl}}/images/about/missionary.jpg" alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/john_tamara.jpg" alt="Image 2">
-  <img src="{{site.baseurl}}/images/about/tamara_fam.jpg" alt="Image 3">
+  <img src="https://www.imdb.com/title/tt13126252/" alt="Image 1">
+  <img src="https://www.zalora.sg/blog/lifestyle/what-is-chiikawa/" alt="Image 2">
+  <img src="https://projectsekai.fandom.com/wiki/Project_SEKAI_COLORFUL_STAGE!" alt="Image 3">
   <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
   <img src="{{site.baseurl}}/images/about/john_lora.jpg" alt="Image 5">
   <img src="{{site.baseurl}}/images/about/lora_fam.jpg" alt="Image 6">
