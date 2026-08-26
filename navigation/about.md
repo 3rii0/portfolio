@@ -60,7 +60,7 @@ Flags are made using Wikipedia images
     // 2. Define a JavaScript object for our http source and our data rows for the Living in the World grid
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
-    {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California - most of my life"},
+    {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California - most of the 17 years of my life"},
     {"flag": "f/fa/Flag_of_the_People%27s_Republic_of_China.svg", "greeting": "Nǐ hǎo", "description": "China - a couple months when I was a baby"}
 ];
 
@@ -99,25 +99,25 @@ Flags are made using Wikipedia images
 
 - I am Chinese-American
 - Born in Santa Barbara and lived for the first couple years of my life. Then, I moved to San Diego and have lived here since.
-- Some of my hobbies include drawing, editing photos and videos, and listening to music.
+- Some of my hobbies include drawing, editing photos and videos, taking photos, and listening to music.
 - my favorite food are mochi donuts!
 - I like using kaomojis/emoticons. these things --> ( ˶ˆᗜˆ˵ )
 
 ### Interests
 
-- I like to listen to j-pop and vocaloid. My main [playlist]<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_LINK">playlist</a> consists of over 600 songs, but I mainly just like to listen to the most recent songs because I tend to get tired of songs easily and I'm too lazy to create a new playlist.
-- The main fandoms I'm in are Alien Stage, Chiikawa, and Project Sekai. The gallery includes pictures of the stufff I'm interested in and me :3
+- I like to listen to j-pop and vocaloid. My main <a href="https://youtube.com/playlist?list=PLrSSNb7pD0xFcy_ttT4B4tn8Ag-iBJ9qS&si=Eis16K00riS9n2al">playlist</a> consists of over 600 songs, but I mainly just like to listen to the most recent songs because I tend to get tired of songs easily and I'm too lazy to create a new playlist.
+- The main fandoms I'm in are Alien Stage, Chiikawa, and Project Sekai. The gallery includes pictures of the stuff I'm interested in, artwork I've made, and me :3
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
-  <img src="https://www.imdb.com/title/tt13126252/" alt="Image 1">
-  <img src="https://www.zalora.sg/blog/lifestyle/what-is-chiikawa/" alt="Image 2">
-  <img src="https://projectsekai.fandom.com/wiki/Project_SEKAI_COLORFUL_STAGE!" alt="Image 3">
-  <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
-  <img src="{{site.baseurl}}/images/about/john_lora.jpg" alt="Image 5">
-  <img src="{{site.baseurl}}/images/about/lora_fam.jpg" alt="Image 6">
+  <img src="https://imgs.search.brave.com/MlEi9ic9bu3rkctC5TBStqgY1mCvjzTBqsi4SfSVjwg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk5qVTJOV0Zs/WVdVdE5tVmlZaTAw/WldWbUxUazBaR1l0/TUdObU1EUXdZbVF6/TkRRelhrRXlYa0Zx/Y0djQC5qcGc" alt="Image 1">
+  <img src="https://imgs.search.brave.com/d-zcBiPx56BDf1a8in7__v98yDAmuX7SH6s-XWgmlMM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vemFsb3Jh/c2luZ2Fwb3JlYmxv/Zy53cGNvbXN0YWdp/bmcuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI1LzA2L0No/aWlrYXdhLndlYnA_/cmVzaXplPTcyMCw2/Nzgmc3NsPTE" alt="Image 2">
+  <img src="https://static.wikia.nocookie.net/projectsekai/images/b/bf/Main-image.jpg/revision/latest?cb=20201011130100" alt="Image 3">
+  <img src="https://imgs.search.brave.com/y-Cr5XIiFaFEy-C2kxMuNE4sTO3ax4bq9MWrmT8eSDU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/c3ByaW5rbGViYWtl/cy5jb20vbWVkaWEv/MjAyMi8wNi9Nb2No/aS1kb3VnaG51dHMt/MTEtMS5qcGc" alt="Image 4">
+  <img src="https://cdn.mos.cms.futurecdn.net/8ToUvuPXxcD5ANh3D9Sr8L-1200-80.jpg" alt="Image 5">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZR9RoZV2VE3evUC3mhncGM9aNTzfSko6T27Vwfx7I7jEShMOeYyOf_YU&s=10" alt="Image 6">
   <img src="{{site.baseurl}}/images/about/lora_fam2.jpg" alt="Image 7">
   <img src="{{site.baseurl}}/images/about/pj_party.jpg" alt="Image 8">
   <img src="{{site.baseurl}}/images/about/trent_family.png" alt="Image 9">
