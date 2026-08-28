@@ -7,7 +7,7 @@ comments: true
 
 ## As a conversation Starter
 
-Hi! My name is Barbara. Here are some places I have lived.
+Hi! My name is Yue Barbara Zhao. Here are some places I have lived.
 
 <comment>
 Flags are made using Wikipedia images
