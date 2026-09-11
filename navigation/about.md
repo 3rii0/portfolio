@@ -269,8 +269,8 @@ comments: true
         transition: transform 0.8s cubic-bezier(0.16, 1, 0.3, 1), padding 0.8s cubic-bezier(0.16, 1, 0.3, 1);
     }
 
-    .semi-card.left .tilt-container { transform: rotate(0deg); padding-left: 50px; }
-    .semi-card.right .tilt-container { transform: rotate(0deg); padding-right: 50px; }
+    .semi-card.left .tilt-container { transform: rotate(0deg); padding-left: 70px; }
+    .semi-card.right .tilt-container { transform: rotate(0deg); padding-right: 70px; }
 
     .semi-card.left:hover .tilt-container { transform: rotate(5deg); padding-left: 0; }
     .semi-card.right:hover .tilt-container { transform: rotate(-5deg); padding-right: 0; }
@@ -287,7 +287,7 @@ comments: true
     }
     
     .semi-card:hover .title-wrapper {
-        transform: translateY(-100px); /* Reduced travel distance so it stays lower */
+        transform: translateY(-80px); /* Reduced travel distance so it stays lower */
     }
 
     .card-title, .card-title::before, .card-title::after {
@@ -317,12 +317,12 @@ comments: true
 
     /* Apply default straight alignment without vertical offsets */
     .semi-card.left .card-content { 
-        right: 40px; 
+        right: 60px; 
         text-align: left; 
         transform: rotate(0deg); 
     }
     .semi-card.right .card-content { 
-        left: 40px; 
+        left: 60px; 
         text-align: right; 
         transform: rotate(0deg); 
     }
@@ -433,7 +433,7 @@ comments: true
                 <div class="flash-overlay"></div>
                 
                 <div class="image-panel">
-                    <img src="{{site.baseurl}}/images/about/fin2 (2).jpg" alt="Gallery Image 9">
+                    <img src="{{site.baseurl}}/images/about/me.jpg" alt="Me">
                 </div>
                 
                 <div class="tilt-container">
@@ -451,7 +451,7 @@ comments: true
                 <div class="flash-overlay"></div>
                 
                 <div class="image-panel">
-                    <img src="https://cdn.mos.cms.futurecdn.net/8ToUvuPXxcD5ANh3D9Sr8L-1200-80.jpg" alt="Camera">
+                    <img src="{{site.baseurl}}/images/about/art piece.jpg" alt="art piece">
                 </div>
 
                 <div class="tilt-container">
@@ -476,7 +476,7 @@ comments: true
                 <div class="flash-overlay"></div>
                 
                 <div class="image-panel">
-                    <img src="https://upload.wikimedia.org/wikipedia/en/6/61/Project_SEKAI_title_screen.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" alt="Project Sekai">
+                    <img src="{{site.baseurl}}/images/about/miku art.jpg" alt="Hatsune Miku">
                 </div>
 
                 <div class="tilt-container">
@@ -497,7 +497,7 @@ comments: true
                 <div class="flash-overlay"></div>
                 
                 <div class="image-panel">
-                    <img src="https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&q=80&w=400" alt="Anime Style Placeholder">
+                    <img src="{{site.baseurl}}/images/about/alien stage.jpg" alt="Alien Stage">
                 </div>
 
                 <div class="tilt-container">
